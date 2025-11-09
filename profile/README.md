@@ -27,8 +27,9 @@ We’re not just coding — we’re vibe coding.
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| 🚀 **Intellimatch** | An AI-powered Streamlit dashboard that uses Google’s Gemini 2.0 Flash Model to analyze employee reviews and generate intelligent internal job match scores. | Python, Streamlit, GeminiAI API |
 | 💰 **Chevron Technical Assessment** | An AI-driven platform leveraging OpenAI’s LLMs for smarter technical assessments, grading, and performance insights. | Python, OpenAI API |
+| 🚀 **Intellimatch** | An AI-powered Streamlit dashboard that uses Google’s Gemini 2.0 Flash Model to analyze employee reviews and generate intelligent internal job match scores. | Python, Streamlit, GeminiAI API |
+| ❤️ **Medphonics** | An AI-powered health companion that helps users understand their heart data, learn medical terminology, and ask health-related questions through an intuitive and educational interface. | React, NodeJS, ExpressJS, Python,  GeminiAI API, Supabase |
 
 ---
 
